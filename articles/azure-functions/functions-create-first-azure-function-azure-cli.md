@@ -22,7 +22,7 @@ In this article, you use command-line tools to create a TypeScript function that
 In this article, you use command-line tools to create a PowerShell function that responds to HTTP requests. After testing the code locally, you deploy it to the serverless environment of Azure Functions. 
 ::: zone-end  
 ::: zone pivot="programming-language-python" 
-In this article, you use command-line tools to create a Python function that responds to HTTP requests. After testing the code locally, you deploy it to the serverless environment of Azure Functions. 
+In this article, you use command-line tools to create a Python function that responds to HTTP requests. After testing the code locally, you deploy it to the serverless environment of Azure Functions.  If you use an Anaconda python distribution, ensure that you use the Anaconda prompt (search > Anaconda prompt), not a plain command prompt or powershell. This will ensure that necessary environment variables are set. 
 ::: zone-end  
 ::: zone pivot="programming-language-java" 
 In this article, you use command-line tools to create a Java function that responds to HTTP requests. After testing the code locally, you deploy it to the serverless environment of Azure Functions. 
